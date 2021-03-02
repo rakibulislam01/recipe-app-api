@@ -7,3 +7,7 @@
 * docker-compose run app sh -c "python manage.py createsuperuser"
 
 * docker-compose run app sh -c "python manage.py makemigrations core"
+
+
+# Run service
+* docker-compose up
