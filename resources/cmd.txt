@@ -11,3 +11,6 @@
 
 # Run service
 * docker-compose up
+
+# Build service
+docker-compose build
